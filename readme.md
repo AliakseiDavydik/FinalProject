@@ -7,7 +7,7 @@ ___
 >pip install requests, BeautifulSoup4, lxml, pandas, matplotlib
 ## Описание:
 
-## `ВАЖНО:no_entry:`
+## `ВАЖНО`:no_entry:
 :white_check_mark:Данный проект был написан непосредственно для сайта квартир: https://realt.by/rent/flat-for-long/bez-posrednikov/. В проекте
 реализована идея сбора определенных данных с вышеуказанного сайта.
 
